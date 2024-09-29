@@ -51,10 +51,8 @@ def get_ans(text)
 
 ### 4. **Использование TG-бота**
 - **Ссылка на телеграм бота**: https://t.me/theboyscpbot
-- **Демо** 
-<video width="320" height="240" controls>
-  <source src="цп.MOV" type="video/mp4">
-</video>
+- ![Демо](https://raw.githubusercontent.com/kostopr4v/RUTUBE_RAG_CP2024/main/цп.MOV)
+
 ## Параметры и конфигурация
 
 - **Модель LLM**: Вы можете использовать любую предобученную модель LLM из библиотеки HuggingFace, передав её название в `llm_model_name`. Например, `"Qwen/Qwen2.5-7B-Instruct"` или `"IlyaGusev/saiga_llama3_8b"`.
