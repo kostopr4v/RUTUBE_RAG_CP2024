@@ -51,7 +51,7 @@ def get_ans(text)
 
 ### 4. **Использование TG-бота**
 - **Ссылка на телеграм бота**: https://t.me/theboyscpbot
-- ![Демо](https://raw.githubusercontent.com/kostopr4v/RUTUBE_RAG_CP2024/main/цп.MOV)
+- ![Демо](https://raw.githubusercontent.com/kostopr4v/RUTUBE_RAG_CP2024/main/цп.gif)
 
 ## Параметры и конфигурация
 
